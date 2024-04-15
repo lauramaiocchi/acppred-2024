@@ -29,7 +29,9 @@ $ make setup
 
 - **O que é back-end e front-end no contexto de aplicação web?**
   O front-end é responsável pela interface do usuário e pela interação do usuário, enquanto o back-end é responsável pelo processamento de dados. Ambas as partes trabalham juntas para fornecer uma experiência completa e funcional aos usuários de uma aplicação web.
+
   O **front-end** é a parte da aplicação web com a qual os usuários interagem diretamente em seus navegadores. Consiste em tecnologias como HTML, CSS e JavaScript, que são usadas para criar a interface do usuário e a experiência do usuário. Responsável pela apresentação e interação do usuário, incluindo o layout, design, cores, animações e eventos de interação. As principais responsabilidades do front-end incluem renderizar páginas da web, validar entradas do usuário, enviar solicitações para o back-end e exibir dados retornados pelo back-end. Manda requisições e recebe requisições.
+
   O **back-end** é a parte da aplicação web que lida com o processamento de dados e a comunicação com o servidor. Ele consiste em uma variedade de tecnologias, como linguagens de programação (como Python, Java), frameworks (como Django, Flask), bancos de dados e servidores web. Responsável por processar solicitações do front-end, executar operações no banco de dados, autenticar usuários, gerar respostas dinâmicas e fornecer dados para o front-end. Ele pode envolver a implementação de Interfaces de Programação de Aplicações para permitir a comunicação entre o front-end e o back-end.
 
 - **O que são testes unitários? Qual a sua importância no desenvolvimento de software?**
