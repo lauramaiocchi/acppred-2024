@@ -12,9 +12,9 @@ Run the following comand to install the acppred program (mamba is required).
 $ make setup
 ```
 
-- 'Makefile' arquivo que centraliza os comandos a serem executados pelo programa 'make'.
-- Environment.yml: são arquivos de execução ambiente mamba (conda) (dependências). Possibilidade de criar um environment.yml arquivo que vai descrever o ambiente de software do projeto. 
-- Environment.txt arquivo de instalação pip (bibliotecas).
+- '$ Makefile' arquivo que centraliza os comandos a serem executados pelo programa 'make'.
+- $ Environment.yml: são arquivos de execução ambiente mamba (conda) (dependências). Possibilidade de criar um environment.yml arquivo que vai descrever o ambiente de software do projeto. 
+- $ Environment.txt arquivo de instalação pip (bibliotecas).
   
 - **O que é a ferramenta conda, e qual a sua utilidade no desenvolvimento de programas em Python?**
     O conda é uma ferramenta para criação de Ambientes Virtuais, estes são pastas dentro do computador que possuem todos os requisitios para executar um programa específico. Ou seja, o Conda é uma ferramenta de gerenciamento de ambientes e dependências em Python (e também em outros, como R). Ele é amplamente usado para simplificar o processo de instalação e gerenciamento de bibliotecas, permitindo que você crie ambientes isolados onde pode instalar diferentes versões de pacotes sem interferir no ambiente global do sistema. A principal utilidade do Conda no desenvolvimento de programas em Python incluem: o gerenciamento de pacotes, podendo instalar, atualizar e remover pacotes facilmente. Além de permitir que você crie ambientes virtuais independentes uns dos outros, onde você pode instalar diferentes versões de pacotes e até mesmo versões diferentes do Python. Isso é útil quando você está trabalhando em vários projetos que têm dependências conflitantes.
